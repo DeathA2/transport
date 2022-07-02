@@ -1,0 +1,48 @@
+{
+  "2021": {
+    "4": [
+        {
+            "Day ": 20,
+            "KhoCTG": 162,
+            "KhoPXN": 300,
+            "PXNtieuthu": 50
+        },
+        {
+            "Day": 21,
+            "KhoCTG": 435,
+            "KhoPXN": 291,
+            "PXNtieuthu": 12
+        }
+    ]
+  },
+  "2022": {
+    "6": [
+        {
+            "Day": 29,
+            "KhoCTG": 213,
+            "KhoPXN": 354,
+            "PXNtieuthu": 11
+        },
+        {
+            "Day": 30,
+            "KhoCTG": 123,
+            "KhoPXN": 345,
+            "PXNtieuthu": 10
+        }
+    ],
+    "7": [
+      {
+        "Day": 1,
+        "KhoCTG": 123,
+        "KhoPXN": 456,
+        "PXNtieuthu": 32
+      },
+      {
+        "Day": 2,
+        "KhoCTG": 234,
+        "KhoPXN": 213,
+        "PXNtieuthu": 12
+      }
+    ]
+  }
+}
